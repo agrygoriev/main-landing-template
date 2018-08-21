@@ -1,0 +1,51 @@
+{
+  "logo": "logo.svg",
+  "en": {
+    "navlinks": [
+      {
+        "link": "Privacy",
+        "href": "/privacy/"
+      },
+      {
+        "link": "Blog",
+        "href": "/blog/"
+      },
+      {
+        "link": "Contacts",
+        "href": "/contacts/"
+      }
+    ]
+  },
+  "de": {
+    "navlinks": [
+      {
+        "link": "Datenschutzerklärung",
+        "href": "/de/privacy/"
+      },
+      {
+        "link": "Blog",
+        "href": "/de/blog/"
+      },
+      {
+        "link": "Kontaktieren Sie uns",
+        "href": "/de/contacts/"
+      }
+    ]
+  },
+  "es": {
+    "navlinks": [
+      {
+        "link": "Privacy",
+        "href": "/es/privacy/"
+      },
+      {
+        "link": "Blog",
+        "href": "/es/blog/"
+      },
+      {
+        "link": "Contacts",
+        "href": "/es/contacts/"
+      }
+    ]
+  }
+}

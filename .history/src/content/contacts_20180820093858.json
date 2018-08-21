@@ -1,0 +1,47 @@
+{
+  "en": {
+    "heading": "GIVE US A SHOUT",
+    "subheading": "We are ready to lead you into the future of personal finance",
+    "ouraddress": "Our Address",
+    "getintouch": "Get in Touch",
+    "responsible": "We are incredibly responsive to your requests and value your questions.",
+    "street": "114 King Street,",
+    "city": " Melbourne, Victoria,",
+    "postcode": " 3000",
+    "country": "Australia",
+    "sendbtn": "Send Information",
+    "nameplaceholder": "Enter Your Full Name",
+    "emailplaceholder": "Enter Your Email Address",
+    "messageplaceholder": "Enter Your Message Here..."
+  },
+  "de": {
+    "heading": "RUFEN SIE UNS AN",
+    "subheading": "Starten Sie mit uns noch heute in Ihre persönliche finanzielle Zukunft",
+    "ouraddress": "Unsere Adresse",
+    "getintouch": "Nehmen Sie Kontakt auf",
+    "responsible": "Wir reagieren unglaublich auf Ihre Anfragen und schätzen Ihre Fragen.",
+    "street": "114 King Street,",
+    "city": " Melbourne, Victoria,",
+    "postcode": " 3000",
+    "country": "Australien",
+    "sendbtn": "Sende Informationen",
+    "nameplaceholder": "Geben Sie Ihr vollständiger Name",
+    "emailplaceholder": "Geben Sie Ihre E-Mail",
+    "messageplaceholder": "Geben Sie Ihre Nachricht hier..."
+  },
+  "es": {
+    "heading": "DANOS UN GRITON",
+    "subheading": "Estamos listos para guiarlo hacia el futuro de las finanzas personales",
+    "ouraddress": "Nuestra dirección",
+    "getintouch": "Estar en contacto",
+    "responsible": "Respondemos increíblemente a sus solicitudes y valoramos sus preguntas.",
+    "street": "114 King Street,",
+    "city": " Melbourne, Victoria,",
+    "postcode": " 3000",
+    "country": "Australia",
+    "sendbtn": "Enviar información",
+    "nameplaceholder": "Introduce tu nombre completo",
+    "emailplaceholder": "Introduce tu dirección de correo electrónico",
+    "messageplaceholder": "Escribe tu mensaje aquí ..."
+  }
+}

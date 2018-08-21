@@ -1,0 +1,26 @@
+{
+  "en": {
+    "bgimage": "bg-highlight-left.jpg",
+    "icon": "block-icon-1.svg",
+    "heading": "Financial independence is your freedom to choose",
+    "p1": "The key to financial freedom is very simple: convert your regular earned income into passive income or portfolio income.",
+    "p2": "Investing, budgeting, insurance, mortgages,credit, increasing income are an overwhelming areas of finance, so start small and learn what you can. Understanding the basics of money management will allow you to live well today and build a strong financial future.",
+    "p3": "Instead of the general advice you’ll get in personal views and you’ll learn what challenges real people are facing. With this in mind, it is very easy to achieve the goals you desire without giving up on things that you hold close to your heart."
+  },
+  "de": {
+    "bgimage": "bg-highlight-left.jpg",
+    "icon": "block-icon-1.svg",
+    "heading": "WARUM MÜSSEN WIR UNS IN PERSÖNLICHEN FINANZEN AUSKENNEN?",
+    "p1": "Viele Menschen auf dieser Erde verstehen sehr wenig von Haushaltsangelegenheiten. Fehlendes Wissen über Kredite, Schulden und Altersvorsorge kann  sich viele Jahre lang nachteilig auf das finanzielle Wohl auswirken.",
+    "p2": "Neueste Trends machen es daher umso dringender erforderlich, dass Verbraucher das Wesentliche in Finanzdingen begreifen, was vom Einzelnen aber manches Mal große Anstrengungen erfordert.",
+    "p3": "Die großflächige Bekämpfung finanziellen Unwissens kann Verschuldung mindern, die Altersvorsorge planen helfen und auf landesweiter Ebene zur Milderung ungleichmäßiger Einkommensverteilung beitragen. Das ist einer der bedeutsamsten Faktoren bei der wirtschaftlichen Aufwärtsmobilität. Trotz erheblicher verstandesmäßiger Anstrengung schaffen es die meisten von uns nicht, Zeit und Geld zu erübrigen, um sich ein Wissen zu erwerben, das echte Vorteile bringt."
+  },
+  "es": {
+    "bgimage": "bg-highlight-left.jpg",
+    "icon": "block-icon-1.svg",
+    "heading": "La independencia financiera es su libertad para elegir",
+    "p1": "La clave de la libertad financiera es muy simple: convierta su ingreso ordinario ganado en ingresos pasivos o de cartera.",
+    "p2": "Invertir, hacer presupuestos, seguros, hipotecas, crédito, aumentar los ingresos son áreas abrumadoras de las finanzas, así que comience poco a poco y aprenda lo que pueda. Comprender los principios básicos de la administración del dinero le permitirá vivir bien hoy y construir un futuro financiero sólido.",
+    "p3": "En lugar del consejo general, obtendrás puntos de vista personales y aprenderás los desafíos que enfrentan las personas reales. Con esto en mente, es muy fácil lograr los objetivos que desea sin renunciar a las cosas que tiene cerca de su corazón."
+  }
+}

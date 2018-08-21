@@ -1,0 +1,34 @@
+{
+  "heading": {
+    "upheadline": "What people say",
+    "heading": "Testimonials",
+    "subheading":
+      "We appreciates and cares deeply about our client relationships. Below are some comments we have recieved over the years."
+  },
+  "cards": [
+    {
+      "id": 1,
+      "image": "testimonial-1.jpg",
+      "name": "Frederic Winston",
+      "title": "Food and beverage serving and related worker",
+      "text":
+        "The creative talent pool at Bomshow is impressive.  Their approach truly has clients thinking ‘out of the box’. They quickly become part of my life. As a client, I have genuinely appreciated their thorough evaluation of each my question, their fresh creative perspective and original solutions. All-in-all, just a wonderful people. Keep up the good work!"
+    },
+    {
+      "id": 2,
+      "image": "testimonial-2.jpg",
+      "name": "Emma Earl",
+      "title": "Technologist",
+      "text":
+        "Never ever, ever, since we have been with Bomshow, have I ever gone to bed worrying about money. They take care of my affairs fully. Team is very proactive and keeps us up to date on news and developments in budget and investments that impact our family situation."
+    },
+    {
+      "id": 3,
+      "image": "testimonial-3.jpg",
+      "name": "Andrew T. Holly",
+      "title": "Estimator",
+      "text":
+        "When my family and I moved back to my country, a few years back we made contact with Bomshow to help us ensure we had the right mix of insurance, savings and investments to cater for both our kids’ education as well as our own retirement plans. We had been away for almost 7 years so it was pretty stressful moving back. They really helped relieve a lot of that stress in helping us get our finances in order and planning for the future."
+    }
+  ]
+}

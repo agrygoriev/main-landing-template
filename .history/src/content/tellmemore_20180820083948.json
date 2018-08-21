@@ -1,0 +1,20 @@
+{
+  "en": {
+    "heading": "So, are you ready? Let’s get started!",
+    "text": "By carefully reading and performing my advices, taking an active role in managing your finances — and looking at ways to maximize your income — you’ll ensure a brighter and secure financial future.",
+    "btntext": "Tell me more!",
+    "href": "/contacts/"
+  },
+  "de": {
+    "heading": "Also, bist du fertig? Lass uns anfangen!",
+    "text": "Indem Sie meine Ratschläge sorgfältig lesen und ausführen, eine aktive Rolle bei der Verwaltung Ihrer Finanzen übernehmen und nach Wegen suchen, wie Sie Ihr Einkommen maximieren können, sorgen Sie für eine bessere und sichere finanzielle Zukunft.",
+    "btntext": "Erzähl mir mehr!",
+    "href": "/de/contacts/"
+  },
+  "es": {
+    "heading": "¿Entonces estas lista? ¡Empecemos!",
+    "text": "Al leer detenidamente y realizar mis consejos, asumir un rol activo en la administración de sus finanzas y buscar formas de maximizar sus ingresos, garantizará un futuro financiero más brillante y seguro.",
+    "btntext": "¡Dime más!",
+    "href": "/es/contacts/"
+  }
+}

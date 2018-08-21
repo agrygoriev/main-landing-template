@@ -1,0 +1,281 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,900");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.main-form {
+  /* background-color: rgb(34, 34, 34); */
+  padding-top: 100px;
+  background-repeat: repeat-x;
+  background-image: linear-gradient(
+      rgba(0, 84, 128, 0.4),
+      rgba(0, 84, 128, 0.6)
+    ),
+    url("./assets/img/jumbo-bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.book-cover {
+  width: 100%;
+}
+.secondary-font {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: 48px;
+  padding-top: 0;
+}
+.third-font {
+  font-family: "Poppins";
+  line-height: 32px;
+}
+.form-check {
+  padding-left: 20px;
+  text-align: left;
+}
+.btn.btn-secondary.pix-white {
+  color: #fff;
+}
+.navigation {
+  position: fixed;
+  width: 100%;
+  margin-bottom: 60px;
+  display: block;
+  z-index: 100;
+}
+.navbar-nav .nav-link {
+  color: #fff !important;
+  text-transform: uppercase;
+  font: 700 14px "Poppins", sans-serif;
+  transition: all 0.2s ease-in-out;
+}
+.navbar-nav .nav-link:hover {
+  opacity: 0.7;
+}
+.icon-weights {
+  width: 80px;
+  height: 80px;
+}
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.media-middle {
+  vertical-align: middle;
+  margin: auto;
+}
+a.pix-black-gray-light {
+  color: #888;
+}
+.bg-dark {
+  background-color: #343434 !important;
+}
+.light-blue-bg {
+  background-color: #e5eef2;
+}
+button.navbar-toggler {
+  outline: none;
+  border: none;
+}
+@media (max-width: 1200px) {
+  .container {
+    max-width: 90vw;
+  }
+}
+@media (max-width: 768px) {
+  .media {
+    flex-flow: column;
+  }
+}
+.label {
+  display: inline;
+  padding: 0.2em 0.6em 0.3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25em;
+  text-transform: uppercase;
+}
+.gray-bg {
+  background: #f4f4f4;
+}
+.dark-blue-bg {
+  background-color: #005480;
+}
+.dark-blue-bg-01 {
+  background-color: rgba(0, 84, 128, 0.1);
+}
+.dark-blue-text {
+  color: #005480;
+}
+.au-green-bg {
+  background-color: #00bd68;
+}
+.au-green-bg-01 {
+  background-color: rgba(0, 189, 104, 0.1);
+}
+.au-green-text {
+  color: #00bd68;
+}
+.au-yellow-bg {
+  background-color: #ffda5a;
+}
+.au-yellow-bg-01 {
+  background-color: rgba(255, 218, 90, 0.1);
+}
+.au-yellow-text {
+  color: #ffda5a;
+}
+.au-orange-bg {
+  background-color: #ff9800;
+}
+.au-orange-bg-01 {
+  background-color: rgba(255, 152, 0, 0.1);
+}
+.au-orange-text {
+  color: #ff9800;
+}
+.au-red-bg {
+  background-color: #f44336;
+}
+.au-red-bg-01 {
+  background-color: rgb(244, 67, 54, 0.1);
+}
+.au-red-text {
+  color: #f44336;
+}
+
+.pix-black-gray-light {
+  color: #888;
+}
+.op-10 {
+  opacity: 0.1;
+}
+main {
+  padding-top: 0;
+}
+ul.clear-list {
+  list-style-type: none;
+  -webkit-padding-start: 0;
+}
+.list-heading {
+  font: 700 16px "Poppins", sans-serif;
+  color: #00496e;
+}
+.blog-page-wrapper {
+  padding-top: 65px;
+}
+.article-page {
+  display: block;
+  /* background-image: url(./assets/img/banks-MKH.jpg); */
+  /* background-color: rgb(244, 244, 244); */
+  background-repeat: repeat-x;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+img.size-full,
+#big-main-image > img,
+.imgc > img {
+  width: 100%;
+  height: auto;
+}
+form.pix-form-light-white-bg .form-control.pix-lightblue-transparent {
+  background: rgba(255, 255, 255, 0.8);
+}
+.pix-black-gray-dark {
+  color: #00496e;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.pix-nav-link.nav-link,
+.secondary-font {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+a:hover {
+  opacity: 0.8;
+}
+.modal-open .modal {
+  height: auto;
+  top: unset;
+}
+@media (min-width: 576px) {
+  .modal .modal-dialog {
+    max-width: 50%;
+  }
+}
+.modal .modal-dialog.bottom-modal-footer {
+  max-width: 100%;
+  position: fixed;
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+}
+.modal .modal-dialog.bottom-modal-footer button {
+  width: 100%;
+  background-color: #00496e;
+}
+.modal .modal-dialog .modal-content {
+  border-radius: 0;
+}
+.dark-blue-text {
+  color: #005480;
+}
+.light-blue-text {
+  color: #e5eef2;
+}
+.medium-blue-text {
+  color: #7fa9bf;
+}
+.pix-content.pix-cover {
+  margin-bottom: 30px;
+  padding: 0 40px;
+}
+.btn.au-green-bg:hover,
+.btn.au-green-bg:focus,
+.btn.au-yellow-bg:hover,
+.btn.au-yellow-bg:focus {
+  background-color: #005480;
+  opacity: 0.8;
+}
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6 {
+  font-weight: 700;
+  color: #d93b0a;
+}
+.entry-content h6 {
+  color: #d93b0a;
+}
+a {
+  color: #d93b0a;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #ffda5a;
+}
+.navbar-nav .nav-link {
+  color: unset !important;
+}

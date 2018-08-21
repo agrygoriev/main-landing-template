@@ -1,0 +1,74 @@
+{
+  "en": {
+    "heading": "Not everyone inherits a fortune",
+    "subheading": "Financial independence takes work and discipline, but small steps can yield big rewards over time.",
+    "cards": [
+      {
+        "id": 1,
+        "color": "#000080",
+        "heading": "Build smarter safety nets",
+        "text": "Emergency funds and insurance are part of the financial planning picture, but they’re rarely discussed in combination. The traditional definition of an emergency fund is a separate account for cash that can be used instead of credit in a sudden emergency like an unexpected car or appliance repair. But it might be wise to evaluate current deductibles on home, car and health insurance to see if those amounts should be built into one’s emergency fund - many people keep deductibles fairly high to keep premiums low. Would you have cash on hand to cover deductibles if you had a sudden claim? If not, put that money in reserve."
+      },
+      {
+        "id": 2,
+        "color": "#008000",
+        "heading": "Downsize",
+        "text": "Whether you are age 20 or 50, financial independence requires a personal evaluation of what money, property and items you will need to live happily and securely. It might also help to stop any “Keeping up with the Joneses” you’ve done in the past that’s unduly influenced your spending. Generally, you’ll get to your goal faster if you can cut your overall living expenses. For some, that means selling your home and moving to a smaller one or to an area with lower living costs and taxes. You can also sell or donate property you don’t need and use those proceeds to extinguish debt or add to savings or investments."
+      },
+      {
+        "id": 3,
+        "color": "#FFA500",
+        "heading": "Always know where you are financially",
+        "text": "Financial planning isn’t about making one set of financial decisions and assuming you’re set. Lives and situations change and your financial planning must be flexible enough to withstand both positive and negative changes without derailing your hopes for financial independence. If your forte is not investing, financial planning or tax matters, by all means bring in qualified experts to help. But financially independent people generally have their money issues at their fingertips not only for their own use, but for estate purposes as well."
+      }
+    ]
+  },
+  "de": {
+    "heading": "WIE KANN MAN SICH FINANZIELLEN STRESS VOM HALS SCHAFFEN UND KLARHEIT IN SEINE FINANZIELLEN ANGELEGENHEITEN BRINGEN?",
+    "subheading": "NEHMEN SIE EINFACH EIN TRAINING, UM ERFOLGREICH MIT GELD UMGEHEN ZU KÖNNEN",
+    "cards": [
+      {
+        "id": 1,
+        "color": "#000080",
+        "heading": "NEHMEN SIE EINE DIAGNOSE VOR",
+        "text": "Überprüfen Sie am Monatsende Ihr Ausgabeverhalten und schauen nach Alarmzeichen. Es hilft, Ihre Käufe in Kategorien zu unterteilen, zum Beispiel: Wohnen, Verkehr, Kleidung, Unterhaltung, Nahrungsmittel, Gänge in Restaurants usw. Diese Übung kann Ihnen die Augen öffnen. Sie könnten erkennen, dass Sie bei 'schnellen Gängen' zum Gemüsehändler jeden Monat beinahe soviel ausgeben wie zum Beispiel für Ihren wöchentlichen Haupteinkaufsgang. Vielleicht erkennen Sie dabei auch, dass Sie zu viel Zeit in Cafés verbringen oder keinen Pfennig für schlechtere Zeiten gespart haben."
+      },
+      {
+        "id": 2,
+        "color": "#008000",
+        "heading": "EINE INVENTUR DURCHFÜHREN",
+        "text": "Bevor Sie einen Plan erstellen können, müssen Sie wissen, wie viel Geld Sie besitzen und wofür Sie es ausgeben. Gehen Sie für mindestens einen Monat sämtlichen Ausgaben nach. Und achten Sie nicht nur auf die großen Posten wie die Miete oder die Rechnung vom Gemüsemarkt. Achten Sie auch auf kleinere Ausgaben, besonders Käufe mit Bargeld, die auf Konto- und Kreditkartenauszügen nicht erscheinen. Sie könnten ein kleines Notizheft bei sich tragen, um diese aufzuschreiben, oder alle Kaufbelege sammeln und in einem Schuhkarton aufbewahren, um sie einmal pro Woche durchzugehen. Sie sollten auch größere Jahresausgaben berücksichtigen, auch wenn diese nicht in den Monat fallen, den Sie verfolgen. Wenn Sie beispielsweise alle sechs Monate 600 € für die Autoversicherung zahlen, notieren Sie für diese Kosten 100 €."
+      },
+      {
+        "id": 3,
+        "color": "#FFA500",
+        "heading": "BEHALTEN SIE IHR ZIEL IM AUGE",
+        "text": "Was sind Ihre finanziellen Ziele? Eventuell möchten Sie aus der Schuldenfalle kommen, einen neuen Wagen kaufen, in Urlaub fahren oder schlicht aufhören, von der Hand in den Mund zu leben. Wenn Sie ein besonderes Ziel haben, wissen Sie, dass es sich auszahlt, ein Budget aufzustellen – und sich daran zu halten."
+      }
+    ]
+  },
+  "es": {
+    "heading": "No todos heredan una fortuna",
+    "subheading": "La independencia financiera requiere trabajo y disciplina, pero los pequeños pasos pueden generar grandes recompensas con el tiempo.",
+    "cards": [
+      {
+        "id": 1,
+        "color": "#000080",
+        "heading": "NEHMEN SIE EINE DIAGNOSE VOR",
+        "text": "Überprüfen Sie am Monatsende Ihr Ausgabeverhalten und schauen nach Alarmzeichen. Es hilft, Ihre Käufe in Kategorien zu unterteilen, zum Beispiel: Wohnen, Verkehr, Kleidung, Unterhaltung, Nahrungsmittel, Gänge in Restaurants usw. Diese Übung kann Ihnen die Augen öffnen. Sie könnten erkennen, dass Sie bei 'schnellen Gängen' zum Gemüsehändler jeden Monat beinahe soviel ausgeben wie zum Beispiel für Ihren wöchentlichen Haupteinkaufsgang. Vielleicht erkennen Sie dabei auch, dass Sie zu viel Zeit in Cafés verbringen oder keinen Pfennig für schlechtere Zeiten gespart haben."
+      },
+      {
+        "id": 2,
+        "color": "#008000",
+        "heading": "EINE INVENTUR DURCHFÜHREN",
+        "text": "Bevor Sie einen Plan erstellen können, müssen Sie wissen, wie viel Geld Sie besitzen und wofür Sie es ausgeben. Gehen Sie für mindestens einen Monat sämtlichen Ausgaben nach. Und achten Sie nicht nur auf die großen Posten wie die Miete oder die Rechnung vom Gemüsemarkt. Achten Sie auch auf kleinere Ausgaben, besonders Käufe mit Bargeld, die auf Konto- und Kreditkartenauszügen nicht erscheinen. Sie könnten ein kleines Notizheft bei sich tragen, um diese aufzuschreiben, oder alle Kaufbelege sammeln und in einem Schuhkarton aufbewahren, um sie einmal pro Woche durchzugehen. Sie sollten auch größere Jahresausgaben berücksichtigen, auch wenn diese nicht in den Monat fallen, den Sie verfolgen. Wenn Sie beispielsweise alle sechs Monate 600 € für die Autoversicherung zahlen, notieren Sie für diese Kosten 100 €."
+      },
+      {
+        "id": 3,
+        "color": "#FFA500",
+        "heading": "BEHALTEN SIE IHR ZIEL IM AUGE",
+        "text": "Was sind Ihre finanziellen Ziele? Eventuell möchten Sie aus der Schuldenfalle kommen, einen neuen Wagen kaufen, in Urlaub fahren oder schlicht aufhören, von der Hand in den Mund zu leben. Wenn Sie ein besonderes Ziel haben, wissen Sie, dass es sich auszahlt, ein Budget aufzustellen – und sich daran zu halten."
+      }
+    ]
+  }
+}

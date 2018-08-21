@@ -1,0 +1,20 @@
+{
+  "en": {
+    "heading": "Contact Us",
+    "copyright": "Copyright © 2018 BomShow. All Rights Reserved",
+    "textprivacy": "Privacy Policy",
+    "textterms": "Terms &amp; Conditions"
+  },
+  "de": {
+    "heading": "Kontaktiere uns",
+    "copyright": "Copyright © 2018 BomShow. Alle Rechte vorbehalten",
+    "textprivacy": "Datenschutzerklärung",
+    "textterms": "AGB"
+  },
+  "es": {
+    "heading": "Contáctenos",
+    "copyright": "Copyright © 2018 BomShow. Todos los derechos reservados",
+    "textprivacy": "Política de privacidad",
+    "textterms": "Términos y condiciones"
+  }
+}
